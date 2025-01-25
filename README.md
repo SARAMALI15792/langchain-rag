@@ -4,9 +4,9 @@ Here’s a cleaned-up and structured step-by-step version of the summary you pro
 ### Steps:
 
 1. **Install `chain`**  
-   Use the following command to install `chain` via pip:  
+   Use the following command to install `langchain` via pip:  
    ```bash
-   pip install chain
+   pip install langchain
    ```
 
 2. **Install `chain_Community`**  
