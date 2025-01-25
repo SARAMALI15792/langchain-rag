@@ -42,8 +42,8 @@ Here’s a cleaned-up and structured step-by-step version of the summary you pro
    content = loader.load()
    print(content[0])
    ``` 
-#Langchain ---> Text Spliters-
-Here’s a clear step-by-step version of the summary for text splitting:
+# Langchain ---> Text Spliters-
+
 
 ---
 
